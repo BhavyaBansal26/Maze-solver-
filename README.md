@@ -5,13 +5,15 @@ Maze-Solving Algorithm: Efficiently navigates through varying maze layouts using
 Line-Following: Utilizes a 5-array IR sensor to detect lines and follow paths with precision.
 Motor Control: Powered by an Arduino Nano, TB6612FNG motor driver, and N20 motors for smooth and accurate movements.
 # Hardware Components
-Microcontroller: Arduino Nano
-Motor Driver: TB6612FNG
-Motors: N20 motors
-Sensors: 5-array IR sensor
+Microcontroller: Arduino Nano.
+Motor Driver: TB6612FNG.
+Motors: N20 motors.
+Sensors: 5-array IR sensor.
 # Software
 Programming Language: C++ for Arduino
+
 Algorithm: Custom maze-solving and line-following logic
+
 #Getting Started
 Clone the Repository
 
